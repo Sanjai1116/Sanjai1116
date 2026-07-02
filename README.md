@@ -1,51 +1,61 @@
 # 👋 Sanjai S
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&size=24&lines=Python+Developer;Software+Developer;AI+Enthusiast;Computer+Vision+Developer;Full+Stack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&size=24&lines=Python+Developer;AI+Enthusiast;Computer+Vision+Developer;Full+Stack+Learner" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-✨ Python & AI Developer  
+💡 Python & AI Developer  
 🧠 Computer Vision Enthusiast  
 🌐 Full-Stack Learner  
-💡 Building real-world applications  
+⚡ Building real-world applications  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-🐍 Python | ⚡ JavaScript | 🌐 HTML | 🎨 CSS  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
 
-### ⚙ Frameworks & Tools
-⚛ React | 👁 OpenCV | 🧠 MediaPipe | ⚡ Streamlit  
+### ⚙ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-### 🗄 Database
-🗄 MySQL | 🔥 Firebase  
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
 
 ### 🛠 Tools
-🔧 Git | 🐙 GitHub | 💻 VS Code  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 💼 Experience
 
-🏢 Python Development Intern — CodSoft  
-
-✔ Built real-world projects  
-✔ Improved problem-solving skills  
-✔ Maintained GitHub repositories  
+🏢 Python Developer Intern — CodSoft  
+✔ Real-world project development  
+✔ Problem-solving improvement  
+✔ GitHub documentation practice  
 
 ---
 
 ## 🏆 Certifications
 
 🎓 IBM SkillsBuild — Generative AI  
-🎯 HackerRank — Python (Basic)  
-🎯 HackerRank — SQL (Basic)  
+🎯 HackerRank — Python Basic  
+🎯 HackerRank — SQL Basic  
 
 ---
 
@@ -57,10 +67,10 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjai1116&theme=tokyo-night" />
+  <img src="https://github.com/Sanjai1116/Sanjai1116/blob/output/github-snake.svg" />
 </p>
 
 ---
