@@ -14,9 +14,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Second-year B.E. Computer Science Engineering student at **Arasu Engineering College**, Kumbakonam (Anna University)
+- 🎓 Third-year B.E. Computer Science Engineering student at **Arasu Engineering College**, Kumbakonam (Anna University)
 - 🐍 Building practical skills in **Python, Computer Vision, and AI-powered tools**
-- 💼 Currently a **Python Development Intern** at **CodSoft**
 - 🌱 Learning **Python for Data Science** — NPTEL, IIT Madras
 - 🔭 Independently designed and deployed **3 full-stack / AI-driven projects**
 - 📫 Reach me at **Sanjaigpm1106@gmail.com**
@@ -55,9 +54,9 @@
 
 ### 🏆 Certifications
 
-- 🎓 **Getting Started with Generative AI** — IBM SkillsBuild · [Verify](https://www.credly.com/go/5xQj1DGH)
-- 🎯 **Python (Basic)** — HackerRank · [Verify](https://www.hackerrank.com/certificates/41E7580815ED)
-- 🎯 **SQL (Basic)** — HackerRank · [Verify](https://www.hackerrank.com/certificates/0793f1982517)
+- 🎓 **Getting Started with Generative AI** — IBM SkillsBuild
+- 🎯 **Python (Basic)** — HackerRank
+- 🎯 **SQL (Basic)** — HackerRank
 
 ---
 
