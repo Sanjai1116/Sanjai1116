@@ -17,6 +17,7 @@
 - 🎓 Third-year B.E. Computer Science Engineering student at **Arasu Engineering College**, Kumbakonam (Anna University)
 - 🐍 Building practical skills in **Python, Computer Vision, and AI-powered tools**
 - 🌱 Learning **Python for Data Science** — NPTEL, IIT Madras
+- 🔐 Learning **Cybersecurity and Privacy** — NPTEL, IIT Madras
 - 🔭 Independently designed and deployed **3 full-stack / AI-driven projects**
 - 📫 Reach me at **Sanjaigpm1106@gmail.com**
 
@@ -24,7 +25,7 @@
 
 ### 🛠 Tech Stack
 
-**Programming Languages**
+#### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
@@ -33,7 +34,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="SQL" />
 </p>
 
-**Libraries & Frameworks**
+#### Libraries & Frameworks
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" title="OpenCV" />
   <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logoColor=white" title="MediaPipe" />
@@ -41,7 +42,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" title="Streamlit" />
 </p>
 
-**Tools & Platforms**
+#### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
@@ -54,9 +55,9 @@
 
 ### 🏆 Certifications
 
-- 🎓 **Getting Started with Generative AI** — IBM SkillsBuild
-- 🎯 **Python (Basic)** — HackerRank
-- 🎯 **SQL (Basic)** — HackerRank
+- 🎓 **Getting Started with Generative AI** — IBM SkillsBuild · [Verify](https://www.credly.com/go/5xQj1DGH)
+- 🎯 **Python (Basic)** — HackerRank · [Verify](https://www.hackerrank.com/certificates/41E7580815ED)
+- 🎯 **SQL (Basic)** — HackerRank · [Verify](https://www.hackerrank.com/certificates/0793f1982517)
 
 ---
 
@@ -84,4 +85,6 @@
   <a href="mailto:Sanjaigpm1106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Open to Python Development & AI/ML internship opportunities</i></p>
+<p align="center">
+  <i>Open to Python Development, AI/ML, and Cybersecurity internship opportunities</i>
+</p>
